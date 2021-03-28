@@ -73,6 +73,9 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	<sonar.projectKey>IsmaelP19_AISS-2021-L2-G02-ismperort2</sonar.projectKey>
+  	<sonar.organization>ismaelp19</sonar.organization>
+  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
 
